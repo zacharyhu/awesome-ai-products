@@ -39,6 +39,9 @@ This repository aims to provide a comprehensive list of high-quality AI products
   - PDF to Figma conversion
   - Vector graphics generation
   - Design file format conversion (PSD, AI, etc.)
+- [RoomFlip](https://roomflip.pro) - Free AI room redesign tool: upload a room photo and see it transformed in 14 interior styles.
+- [AI Image Extender](https://aiimageextender.app) - Expand and uncrop images beyond their original borders using AI outpainting.
+- [MyInk](https://myink.ai) - AI tattoo design generator with virtual try-on for previewing designs on skin.
 
 ## Writing & Content
 
